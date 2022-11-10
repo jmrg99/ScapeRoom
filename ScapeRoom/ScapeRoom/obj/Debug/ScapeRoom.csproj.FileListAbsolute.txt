@@ -1,0 +1,10 @@
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\SCAPE ROOM\ScapeRoom\ScapeRoom\bin\Debug\ScapeRoom.exe.config
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\SCAPE ROOM\ScapeRoom\ScapeRoom\bin\Debug\ScapeRoom.exe
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\SCAPE ROOM\ScapeRoom\ScapeRoom\bin\Debug\ScapeRoom.pdb
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\SCAPE ROOM\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.csprojAssemblyReference.cache
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\SCAPE ROOM\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.Form1.resources
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\SCAPE ROOM\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.Properties.Resources.resources
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\SCAPE ROOM\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.csproj.GenerateResource.cache
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\SCAPE ROOM\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.csproj.CoreCompileInputs.cache
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\SCAPE ROOM\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.exe
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\SCAPE ROOM\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.pdb
